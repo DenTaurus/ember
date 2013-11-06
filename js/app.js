@@ -9,5 +9,3 @@ App.IndexRoute = Ember.Route.extend({
     return ['red', 'yellow', 'blue'];
   }
 });
-
-//Welcome = Ember.Application.create();
